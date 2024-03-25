@@ -1,0 +1,34 @@
+cd name - перемещает в директорию
+ls - просмотр содержание директории
+touch name - создание файла
+mkdir - создание папки
+
+ls -a - показывает все файлы включая скрытые
+ls -l - показывает все данные
+
+cd - переходит в дом папку
+cd ~ - переходит в дом папку
+cd . -переходит в ту папку в которую вы находитесь
+cd .. - переходит в пред папку(родительская папка)
+
+rm name - remove to file
+rmdir - remove directory(пустой)
+rm -rf - remove directory
+
+history - history of terminal
+history10 - last 10 commands of terminal
+history | grep word - print all commands with word
+
+pwd - all directory where i was
+
+cat - выводит содержимое файла
+nano name - text editor from terminal
+
+mv test1 test3 - переименовывает название файлов
+mv papka1 papka3 - переименовывает папку
+mv test1 papka1  - переностит файл в папку
+
+apt - системный установщик пакетов
+snap - установщик пакетов (чаще всего для установки программ)
+
+sudo (super user do) - выполнение комманды от имени администратора
